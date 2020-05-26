@@ -1,8 +1,9 @@
 {
-  "name": "vue2-cli",
+  "name": "pro-vue2-cli",
   "version": "1.0.0",
   "description": "A vue project init tool",
   "main": "./lib/init.js",
+  "private": false,
   "bin": {
     "vue2": "bin/vue2"
   },
@@ -25,5 +26,17 @@
     "ora": "^4.0.4",
     "qrcode-terminal": "^0.12.0",
     "request": "^2.88.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justbefree/vue2-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/justbefree/vue2-cli/issues"
+  },
+  "homepage": "https://github.com/justbefree/vue2-cli#readme"
 }
