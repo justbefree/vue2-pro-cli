@@ -1,0 +1,17 @@
+{
+  "name": "vue2-cli",
+  "version": "1.0.0",
+  "description": "A vue project init tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-cli",
+    "vue2",
+    "vue",
+    "vue2-cli"
+  ],
+  "author": "Just be free",
+  "license": "ISC"
+}
