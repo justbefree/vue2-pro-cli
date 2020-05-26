@@ -2,7 +2,7 @@
   "name": "vue2-cli",
   "version": "1.0.0",
   "description": "A vue project init tool",
-  "main": "index.js",
+  "main": "./lib/init.js",
   "bin": {
     "vue2": "bin/vue2"
   },
