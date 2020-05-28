@@ -1,5 +1,5 @@
 {
-  "name": "pro-vue2-cli",
+  "name": "vue2-pro-cli",
   "version": "1.0.0",
   "description": "A vue project init tool",
   "main": "./lib/init.js",
@@ -14,7 +14,8 @@
     "vue-cli",
     "vue2",
     "vue",
-    "vue2-cli"
+    "vue2-cli",
+    "vue2-pro-cli"
   ],
   "author": "Just be free",
   "license": "ISC",
