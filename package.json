@@ -1,6 +1,6 @@
 {
   "name": "vue2-pro-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A vue project init tool",
   "main": "./lib/init.js",
   "private": false,
