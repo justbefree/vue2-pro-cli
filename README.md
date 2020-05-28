@@ -1,9 +1,9 @@
-# vue2-cli
+# vue2-pro-cli
 A vue project init tool
 
 # Installation
 
-npm install pro-vue2-cli -g
+npm install vue2-pro-cli -g
 
 # Usage
 
