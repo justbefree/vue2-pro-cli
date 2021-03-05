@@ -1,6 +1,6 @@
 {
   "name": "vue2-pro-cli",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "A vue project init tool",
   "main": "./lib/init.js",
   "private": false,
@@ -20,6 +20,7 @@
   "author": "Just be free",
   "license": "ISC",
   "dependencies": {
+    "better-opn": "^2.1.1",
     "chalk": "^4.0.0",
     "commander": "^5.1.0",
     "download-git-repo": "^3.0.2",
@@ -31,7 +32,6 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/justbefree/vue2-pro-cli.git"
