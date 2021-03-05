@@ -1,7 +1,7 @@
 {
   "name": "vue2-pro-cli",
   "version": "2.1.0",
-  "description": "A vue project init tool",
+  "description": "A vue project template generator",
   "main": "./lib/init.js",
   "private": false,
   "bin": {
